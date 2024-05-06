@@ -1,0 +1,25 @@
+_repo: Las-esposallas-de-la-morta-a-Novas-tragedias_73502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balaguer, Victor
+    gutenberg_agent_id: '57101'
+    url: http://www.gutenberg.org/2009/agents/57101
+description: ''
+gutenberg_issued: '2024-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73502'
+language: ca
+pgterms:marc905: 20240429091723balaguer
+pgterms:marc906: '1879'
+pgterms:marc907: ES
+production_note: editor digital Joan Queralt Gil
+publication_note: '  $aBarcelona :$bImprenta de la Renaixensa, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Las esposallas de la morta a Novas tragedias
+url: http://www.gutenberg.org/ebooks/73502
