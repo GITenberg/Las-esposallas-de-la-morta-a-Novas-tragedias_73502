@@ -1,11 +1,16 @@
 _repo: Las-esposallas-de-la-morta-a-Novas-tragedias_73502
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73502-h/images/cover.jpg
 creator:
   author:
     agent_name: Balaguer, Victor
     gutenberg_agent_id: '57101'
     url: http://www.gutenberg.org/2009/agents/57101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73502#Las-esposallas-de-la-morta-a-Novas-tragedias
 gutenberg_issued: '2024-04-30'
 gutenberg_type: Text
 identifiers:
